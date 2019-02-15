@@ -1,0 +1,44 @@
+# 目標：3個月3老鳥+1新進人員快速on board  
+
+# 中心思想  
+## 新人需全程參與團隊的活動
+### Daily Scrum
+### Sprint planning
+### Refinement meeting
+### Retrospective
+### Review meeting
+## 由新人總結會議摘要，mentor針對摘要提問  
+### mentor 最好已經在公司半年以上，並樂於栽培新人，新人也可以有個清單跟mentor反應，且清單需有優先順序跟dead line
+### 公司新人訓還是第一要務
+
+#[第一個月]  
+## 每一周都有一位 mentor 跟菜鳥 pair，建議每一周換一位 mentor 進行 pair  
+## 主要由 mentor 撰寫代碼，菜鳥遇到不理解的部份，可即時或記下等會發問  
+## mentor 寫一段落後，讓菜鳥發問，回答疑問，反問相關問題。菜鳥沒有疑問，就由 mentor 提問  
+
+#第一個月最後一週  
+## 菜鳥整理這個月的 4L (Liked – Learned – Lacked – Longed For)  
+## 由 mentors 給予反饋（好的、待改善）  
+## 菜鳥擬出待改善的行動計畫  
+
+#[第二個月]  
+## 菜鳥挑一位適合的 mentor 一起 pair 一個月
+## 由菜鳥來寫代碼，但是是 mentor 說什麼，菜鳥寫什麼
+## mentor 可適時詢問菜鳥，打算怎麼寫。如果菜鳥沒問題，mentor 就問問題
+
+#第二個月最後一次 retrospective 
+## 由菜鳥對團隊提出一個 CSS (一件 Continue, 一件 Stop, 一件 Start) 的建議
+## 由 mentor 給予反饋（好的、待改善）
+## 菜鳥擬出待改善的行動計畫
+
+#[第三個月]
+## 依據 backlog item 跟團隊其他人進行 pair
+## 建議由菜鳥主動說明打算怎麼做，也先由菜鳥來寫，mentor 即時引導、提問、建議、示範
+
+#最後一週，菜鳥針對產品(or 專案) domain、系統架構/共用元件、開發規範（含團隊公約、DoD等等...）
+## 協作流程，做一個簡報，用以呈現菜鳥對這些的理解程度。簡報只須報告重點，由與會者提問，重點在促進溝通與交流。
+## 每個跟菜鳥 pair 過的成員，最後都須給菜鳥評分（試用期團隊接受程度）、反饋、建議
+## 整理出菜鳥 top 1~3 的待辦事項（先 grouping post-it, 接著團隊成員投票），當作後續加強或學習方針
+
+#參考資料：
+https://dotblogs.com.tw/hatelove/2019/02/14/rookie-strategy-pair-programming
