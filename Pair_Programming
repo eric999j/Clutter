@@ -2,11 +2,11 @@
 
 # 中心思想  
 ## 新人需全程參與團隊的活動
-### Daily Scrum
-### Sprint planning
-### Refinement meeting
-### Retrospective
-### Review meeting
+### Daily Scrum:15min,看 team 大小，每人一分鐘簡短介紹自己做什麼，做不完會有跡象修正  
+### Sprint planning:min,
+### Refinement meeting:min,
+### Retrospective meeting:min,scrum master有問題這時候提出檢討，並列action items
+### Review meeting:min,
 ## 由新人總結會議摘要，mentor針對摘要提問  
 ### mentor 最好已經在公司半年以上，並樂於栽培新人，新人也可以有個清單跟mentor反應，且清單需有優先順序跟dead line
 ### 公司新人訓還是第一要務
@@ -42,3 +42,4 @@
 
 #參考資料：
 https://dotblogs.com.tw/hatelove/2019/02/14/rookie-strategy-pair-programming
+http://teddy-chen-tw.blogspot.com/2011/12/scrum-1.html
