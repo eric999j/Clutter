@@ -2,11 +2,29 @@
 
 # 中心思想  
 ## 新人需全程參與團隊的活動
-### Daily Scrum:15min,看 team 大小，每人一分鐘簡短介紹自己做什麼，做不完會有跡象修正  
-### Sprint planning:min,
-### Refinement meeting:min,
-### Retrospective meeting:min,scrum master有問題這時候提出檢討，並列action items
-### Review meeting:min,
+### Daily Scrum:15分鐘之內舉辦完畢的活動(看team大小斟酌)，一分鐘簡短介紹自己做什麼，做不完會有跡象修正  
+目的：讓團隊修正達成sprint目標，會議通常以站立方式進行。
+會議中團隊成員報告三件事情：
+（1）昨天做了什麼以協助團隊達成sprint目標
+（2）今天準備做什麼以協助團隊達成sprint目標
+（3）有沒有遇到任何阻礙團隊達成sprint目標
+
+### Sprint planning:為期 2-4 週的開發活動，在每個 sprint 開發活動的第一天，挑選這個 sprint 所要開發的需求（stories）
+目的：強調團隊成員之間的對話，會議結束會產生一份「Spring Backlog」就是這個 sprint 所以施工的需求（以 story 的方式撰寫）
+逐一將每一個 stories 細分為若干個 task（施工項目），並且估算完成每一個 task 所需的時間（以小時計算）
+
+### Refinement meeting:又稱為Product Backlog Grooming
+目的：讓 PO 與開發團隊每個 sprint 抽出 5%-10% 的時間來檢視 product backlog 裡面的項目
+然後挑選一些下一個 sprint 準備要施工的 stories
+
+### Retrospective meeting:Sprint回顧會議，scrum master有問題這時候提出檢討，並列action items
+目的：檢討與改善『軟體開發流程』最後團隊討論出改善行動方案（action plan），在下一個 sprint （或是連續若干個 sprints）中實施此改善項目。
+通常改善行動方案只列出一條，例如，30% 的 tasks 都要採用 pair programming 的方式施工，或是 build 一次軟體的時間要縮短為 10 分鐘等等
+
+### Review meeting:Sprint檢視會議，當 sprint 結束的那一天會舉辦此會議
+目的：讓 PO 確認這些 story 有做到他心目中所想要的程度
+展示團隊在此 sprint 中所完成的每一個 story
+
 ## 由新人總結會議摘要，mentor針對摘要提問  
 ### mentor 最好已經在公司半年以上，並樂於栽培新人，新人也可以有個清單跟mentor反應，且清單需有優先順序跟dead line
 ### 公司新人訓還是第一要務
