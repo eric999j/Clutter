@@ -7,22 +7,40 @@
 與會者：🐷
 目的：當團隊決定要哪些 Item 後，就著手去衝
 時間：2-4 week的開發活動，實務上不要多過2個禮拜
+產出：potentially shippable product increment，也就是說這個 sprint 所增加的軟體功能如果客戶馬上就要的話，要可以交付給客戶
+前一天產出：Sprint demo agenda
+Sprint 結束前一天（或sprint demo meeting  前一天中午 12:00 之前）
+SM 要寫出 sprint demo 的議程表，並寄給 Scrum Team 與其他有興趣的輔助角色人員。
+此議程表包含所有要 demo 的項目，以及每一個 demo 項目要花多少時間，由誰負責 demo。
+所以當 Developer 收到該議程表時，就可以準備明天要 demo 的資料
 
 ### 衝刺規劃會議(Sprint Planning Meeting):挑選這個 sprint 所要開發的需求（stories）
 與會者：🐷
-目的：強調團隊成員之間的對話，會議結束會產生一份「Spring Backlog」就是這個 sprint 所以施工的需求（以 story 的方式撰寫）
+目的：強調團隊成員之間的對話
 時間：4-8hr每個 Sprint 開發活動的第一天
-逐一將每一個 stories 細分為若干個 task（施工項目），並且估算完成每一個 task 所需的時間（以小時計算）
+產出：Spring Backlog（以 story 的方式撰寫，這個 Sprint 會盡力完成的 Item List) 跟Info Page(SM寫的文件，要給Scrum Team 以及其他有興趣的輔助角色人員,讓他們知道一個新的 sprint 已經開始了）
+Info Page要寫到：
+sprint goal,列出這個 sprint 所要施工的 
+stories，sprint 開始與結束時間
+以及團隊成員
+
+(1)挑選這個 sprint 所要開發的需求（stories）
+(2)逐一將每一個 stories 細分為若干個 task（施工項目），並且估算完成每一個 task 所需的時間（以小時計算）
+
+Sprint Planning Meeting參考：
+http://teddy-chen-tw.blogspot.com/2012/01/scrum-5-sprint-planning-meeting.html
 
 ### 每日站立會議(Daily Scrum Meeting):  
 與會者：🐷except PO
-目的：讓團隊資訊同步並修正達成sprint目標，會議通常以站立方式進行，為了長話短說
+目的：一個重新規劃會議，讓團隊資訊同步並修正達成sprint目標，會議通常以站立方式進行，為了長話短說
 時間：15min之內舉辦完畢的活動(看team大小斟酌)，一分鐘簡短介紹自己做什麼，做不完會有跡象修正
 產出：Potentially Shippable Product Increement用於Demo Meeting
 會議中團隊成員報告三件事情：
-（1）昨天做了什麼以協助團隊達成sprint目標
-（2）今天準備做什麼以協助團隊達成sprint目標
-（3）有沒有遇到任何阻礙團隊達成sprint目標
+(1)昨天做了什麼以協助團隊達成sprint目標
+(2)今天準備做什麼以協助團隊達成sprint目標
+(3)有沒有遇到任何阻礙團隊達成sprint目標
+Daily Scrum參考：
+http://teddy-chen-tw.blogspot.com/2012/01/scrum-7daily-scrum.html
 
 ### 產品待辦清單精煉會議(Product Backlog Refinement/Product Backlog Grooming/PBR Meeting):
 與會者：🐷
@@ -38,17 +56,24 @@
 展示團隊在此 sprint 中所完成的每一個 story，是要可用的軟體才算產出。不準備Powerpoint或其他簡報，單純就軟體操作取得回饋。
 如果不符合則可以在之後的 sprint 加以修正（此為回饋機制的意義，有錯則改之）
 由於每個 sprint 週期很短（一般 Scrum 團隊採用 2 週至 4 週的 sprint），所以可以避免傳統開發專案在專案晚期客戶才發現問題但卻沒時間加以修正的困境
+Sprint Demo參考：
+http://teddy-chen-tw.blogspot.com/2012/01/scrum-7sprint-demo-meeting.html
 
 ### 衝刺回顧會議(Retrospective/Sprint Retro Meeting):Sprint回顧會議，Scrum Master有問題這時候提出檢討，並列action items
 與會者：🐷except PO
 目的：針對這個 Sprint 團隊的工作模式檢討與改善『軟體開發流程』最後團隊討論出改善行動方案（action plan），定出下個 Sprint 改善事項(或是連續若干個 sprints）中實施此改善項目
 時間：1.5-3hr Sprint Review 後
-產出：Process Improvement Feedback 改善行動方案更新Product Backlog
-通常改善行動方案只列出一條，例如，30% 的 tasks 都要採用 pair programming 的方式施工，或是 build 一次軟體的時間要縮短為 10 分鐘等等
+產出：Process Improvement Feedback 改善行動方案更新Product Backlog跟Sprint summary report(SM準備，包含對於本次 sprint 所完成功能的簡述：
+完成多少個 story points
+團隊成員在 sprint retrospective meeting 中所列出好的以及有待改善的1-3點
+改善行動計畫)將此文件寄給Scrum Team 以及其他有興趣的輔助角色人員，讓他們知道這個 sprint 已經正式結束了
+通常改善行動方案例如，30% 的 tasks 都要採用 pair programming 的方式施工，或是 build 一次軟體的時間要縮短為 10 分鐘等等
 在這個活動中，團隊成員們探討
 (1) 那些開發作法是好的，應該要繼續維持下去。例如，有導入持續整合，或是有持續做 pair programming；
 (2) 有那些與開發流程有關的地方沒有做好需要改善的。例如，自動化單元測試做的不夠多，或是測試硬體設備不夠；
 (3) 擬定改善計畫（action plan）
+Retrospective參考：
+http://teddy-chen-tw.blogspot.com/2012/01/scrum-9retrospective-meeting.html
 
 ##Scrum雙重回饋機制
 就是衝刺檢視會議(對外)跟衝刺回顧會議(對內)
