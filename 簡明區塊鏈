@@ -1,3 +1,6 @@
+#什麼是區塊鏈
+去中心化帳本，包含一系列密碼學數據塊，每次交易操作記錄在每個數據塊中
+
 # 記事
 ## 2013 比特幣
 ## 2014 日本最大比特幣交易平台Mt.Gox倒閉       <-之後開始區分比特幣與區塊鏈
@@ -27,11 +30,13 @@
 ### 特色：有實際資產支撐，可拆分所有權，無時無刻流通，可程式控制，資產交易自由控管
 
 #民詞解釋
+數據塊：包含交易有效訊息
 區塊鏈：比特幣技術
 ICO :Initial Coin Offering，“數字貨幣首次公開募資”，指某個團體、企業、組織或個人在區塊鏈上發行代幣（Token），並募集虛擬貨幣
 （例如：ETH、BTC）所進行的融資活動
 
 # 參考資料
+https://mp.weixin.qq.com/s/CCAngOMGznzPjf50Y10XiQ
 https://mp.weixin.qq.com/s/7A9TQ66FjckzKwyLaHCUmA
 https://wiki.mbalib.com/zh-tw/ICO
 https://www.blocktempo.com/bitcoin-bear-market-ico-next-ico-regulation-advise-to-retail-investor/
