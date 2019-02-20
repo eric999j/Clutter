@@ -9,7 +9,7 @@
 
 # 非Github 託管  
 1.itread01  
-2.medium  
+2.medium https://medium.com/cubemail88/在-medium-中嵌入-source-code-96984c5f41a6 
 3.it home  
 
 # Python資源列表
