@@ -5,7 +5,7 @@
 4.hackmd  
 5.Jekyll(github.io)   
 6.Hugo  
-7.Hyde
+7.Hyde  
 如果要表格或更複雜操作用rst，一般用md
 
 # 非Github 託管  
