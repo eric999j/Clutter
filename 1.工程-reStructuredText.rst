@@ -25,7 +25,7 @@
 
 ``強調``
 
-.. image:: 9.pic-YuanZai.jpg
+.. image:: pics/YuanZai.jpg
 
 ====
 參考資料
