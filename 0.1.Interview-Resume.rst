@@ -18,8 +18,8 @@ Bo-Heng Lu
  - Levaraged Knowledge...
  
 - Software Projects
- - Personal Website:...
- - ...
+ - Python Practice:
+ `Python Practice <Udemy_Python_Hand_On>`_
  
 - Skills
  - Software:Java,Python,Git(familiar),Tomcat(familiar),Anaconda,Spyder  
