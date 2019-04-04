@@ -18,8 +18,9 @@ Bo-Heng Lu
  - Levaraged Knowledge...
  
 - Software Projects
- - Python Practice:
- `Python Practice <Udemy_Python_Hand_On>`_
+ - `Python Practice <https://github.com/eric999j/Udemy_Python_Hand_On>`_
+ - `Python Coway's Game of Life <https://github.com/eric999j/Conway-s-Game-of-Life>`_  
+ - `Java Design Pattern <https://github.com/eric999j/DesignPattern>`_ 
  
 - Skills
  - Software:Java,Python,Git(familiar),Tomcat(familiar),Anaconda,Spyder  
