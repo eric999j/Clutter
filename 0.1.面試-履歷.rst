@@ -25,4 +25,4 @@
  
 - Skills
  - Software:Java,Python,Git(familiar),Tomcat(familiar),Anaconda,Spyder  
- - Systems:Windows,Ubuntu,CentOS,Android
+ - Systems:Windows,Ubuntu,CentOS,MacOS,Android
