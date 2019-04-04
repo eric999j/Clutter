@@ -1,0 +1,28 @@
+----
+盧柏亨BoHeng Lu
+----
+
+- Information
+ - E-mail:eric999j@gmail.com    
+ - PhomeNumber:+886...  
+ - HomeAddress:...  
+ 
+- Education
+ - [學歷]    [校名]    [期間]  
+  - Major: Computer Science and Information Engineering(GPA:)
+  - Programming CourseWork:Data Structures,Algorithms,Operating Systems
+  - CS CourseWork:
+- Employment
+ - [Software Engineer,Intern]    [ItrI]    [期間]  
+ - 做了什麼
+ - Developed...
+ - Established...
+ - Levaraged Knowledge...
+ 
+- Software Projects
+ - Personal Website:...
+ - ...
+ 
+- Skills
+ - Software:Java,Python,Git(familiar),Tomcat(familiar)  
+ - Systems:Windows,Ubuntu,CentOS,Android
