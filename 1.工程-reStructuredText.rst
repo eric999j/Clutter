@@ -1,17 +1,27 @@
 ----
 小標
 ----
--列表1
- -列表2
+
+-無序列表
+ -可以是* + -
+
+1. 有序列表
+2. 可以是數字字母或羅馬數字
 
 `內部連結 <1.工程-Github電子書.md>`_  
+
+* 測試文擋塊
+>>> print '(cut and pasted from interactive Python sessions)'
+(cut and pasted from interactive Python sessions)
 
 :: 
 
 文字區塊
 ::  
 
-* 表格
+空白縮進  
+
+* 複雜表格
 +----------------+------+------+
 | Vim \ 輸入法   | 英文 | 中文 |
 +----------------+------+------+
@@ -20,10 +30,21 @@
 | 非 Insert Mode | :)   | :(   |
 +----------------+------+------+
 
+* 簡單表格
+====================  ==========  ==========
+Header row, column 1  Header 2    Header 3
+====================  ==========  ==========
+body row 1, column 1  column 2    column 3
+body row 2            Cells may span columns
+====================  ======================
+
 * 點
  內注
 
-``強調``
+*強調*
+**特別強調**
+`解釋文本`
+``行內文本``
 
 .. image:: pics/YuanZai.jpg
 
@@ -32,3 +53,6 @@
 ====
 `維基百科ReStructuredText <https://zh.wikipedia.org/wiki/ReStructuredText>`_  
 
+.. _Python: http://www.python.org  
+
+https://docutils-zh-cn.readthedocs.io/zh_CN/latest/ref/rst/restructuredtext.html  
