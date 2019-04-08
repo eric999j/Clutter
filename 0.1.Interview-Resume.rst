@@ -22,6 +22,7 @@ Bo-Heng Lu
  - `Python Coway's Game of Life <https://github.com/eric999j/Conway-s-Game-of-Life>`_  
  - `Java Design Pattern <https://github.com/eric999j/DesignPattern>`_ 
  
-- Skills
- - Software:Java,Python,Git(familiar),Tomcat(familiar),Anaconda,Spyder  
+- Skills  
+ - Programming Languages:Java,Python  
+ - Software:Java Swing,Git(familiar),Tomcat(familiar),Anaconda,Spyder    
  - Systems:Windows,Ubuntu,CentOS,MacOS,Android
