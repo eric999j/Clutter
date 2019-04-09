@@ -6,16 +6,26 @@ Bo-Heng Lu
  - https://github.com/eric999j  
  
 - Education
- - [學歷]    [校名]    [期間]  
-  - Major: Computer Science and Information Engineering(GPA:)
-  - Programming CourseWork:Data Structures,Algorithms,Operating Systems
+  - M.S.     National Chiao Tung University, Hsinchu    Starting Feb.2013   
+  - Major: Network Engineering,The second year of the Master’s programs  
+  - Programming CourseWork:  
+  - CS CourseWork:  
+  -
+  - B.S.      Tunghai University, Taichung             Sep.2009- Feb.2013   
+  - Major: Computer Science,Ranked 1st. Average 92.76   
+  - Programming CourseWork: Data Structures,Algorithms,Operating Systems  
   - CS CourseWork:
 - Employment
- - [Software Engineer,Intern]    [ItrI]    [期間]  
- - 做了什麼
- - Developed...
- - Established...
- - Levaraged Knowledge...
+ - Software Engineer,Intern     ICL-ITRI               Starting Apr.2014      
+ - Design scheduling system for taxi advertising, and this project cooperates with the Taiwan Taxi.
+ - Design server library “Trust Circle” for “BuddySquare” platform which adopts user’s history data to make recommendations.
+ -  
+ - Master’s Thesis  National Chiao Tung University     Starting Jul.2014  
+ - Propose a scheduling algorithm based on real-time system EDF algorithm and improve advertising time usage.  
+ -
+ - Undergraduates   Tunghai University                  Jun.2012-Jan.2013 
+ - Develop the project“Restaurant Management System Based on Android”
+and implement both server and client side; customer use tablet to order; waitress use smartphone check status of customer; cashier and chief side have also been done.  
  
 - Software Projects
  - `Python Practice <https://github.com/eric999j/Udemy_Python_Hand_On>`_
