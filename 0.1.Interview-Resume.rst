@@ -5,16 +5,16 @@ Bo-Heng Lu
 - Profile
  - https://github.com/eric999j  
  
-- Education
-  - M.S.     National Chiao Tung University, Hsinchu    Starting Feb.2013   
+- Education  
+  - M.S.     National Chiao Tung University, Hsinchu    Starting Feb.2013  
   - Major: Network Engineering,The second year of the Master’s programs  
-  - Programming CourseWork:  
+  - Programming CourseWork:      
   - CS CourseWork:  
   -
   - B.S.      Tunghai University, Taichung             Sep.2009- Feb.2013   
   - Major: Computer Science,Ranked 1st. Average 92.76   
   - Programming CourseWork: Data Structures,Algorithms,Operating Systems  
-  - CS CourseWork:
+  - CS CourseWork:  
 - Employment
  - Software Engineer,Intern     ICL-ITRI               Starting Apr.2014      
  - Design scheduling system for taxi advertising, and this project cooperates with the Taiwan Taxi.
