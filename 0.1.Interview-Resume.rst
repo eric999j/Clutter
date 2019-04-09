@@ -7,20 +7,21 @@ Bo-Heng Lu
  
 - Education  
 +------------------------+-------------------------------------------+--------------------+
-|  M.S..                 | National Chiao Tung University, Hsinchu   | Starting Feb.2013  |
+|  M.S.                  | National Chiao Tung University, Hsinchu   | Starting Feb.2013  |
 +========================+============+==================+===========+====================+
 |  Major                 | Network Engineering,The second year of the Master’s programs   |
 |  Programming CourseWork|                                                                |
 |  CS CourseWork         |                                                                |
 +------------------------+-------------------------------------------+--------------------+
 
-+------------------------+-------------------------------+--------------------+
-|  B.S.                  | Tunghai University, Taichung  | Sep.2009- Feb.2013 |
-+========================+============+==================+====================+
-|  Major                 | Computer Science,Ranked 1st. Average 92.76         |
-|  Programming CourseWork| Data Structures,Algorithms,Operating Systems       |
-|  CS CourseWork         |                                                    |
-+------------------------+-------------------------------+--------------------+
+
++------------------------+-------------------------------------------+--------------------+
+|  B.S.                  |       Tunghai University, Taichung        | Sep.2009- Feb.2013 |
++========================+============+==================+===========+====================+
+|  Major                 | Computer Science,Ranked 1st. Average 92.76                     |
+|  Programming CourseWork| Data Structures,Algorithms,Operating Systems                   |
+|  CS CourseWork         |                                                                |
++------------------------+-------------------------------------------+--------------------+
   
 - Employment
  - Software Engineer,Intern     ICL-ITRI               Starting Apr.2014      
