@@ -4,9 +4,9 @@ This is a place to put my clutters, no matter you like it or not, welcome to com
 # 文件分類
 0.面試Interview  
 1.工程Engineering  
-1.1.AI(artificial intelligence  
+1.1.AI(Artificial Intelligence  
 1.2.微服務Microservices  
-1.3.好用的系列Awesome things    
+1.3.好用的系列Awesome hings    
 2.領導Leadership  
 3.主管Management  
 4.退休Retirement    
