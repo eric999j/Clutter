@@ -5,60 +5,45 @@ Bo-Heng Lu 盧柏亨
 - Profile
  - https://github.com/eric999j  
  
-- Educations and Experience  
+- Educations 
 
-+------------------------+-------------------------------------------+--------------------+
-|  Software Engineer     | High Tech Computer Corporation            | Starting Mar.2016  |
-+========================+============+==================+===========+====================+
-|  Major                 |                                                                |
-+------------------------+-------------------------------------------+--------------------+
-|  Programming CourseWork|                                                                |
-+------------------------+-------------------------------------------+--------------------+
-|  CS CourseWork         |                                                                |
-+------------------------+-------------------------------------------+--------------------+
 
-+------------------------+-------------------------------------------+--------------------+
-|  Backend Engineer      | Industrial Technology Research Institute  | Mar.2013- Feb.2016 |
-+========================+============+==================+===========+====================+
-|  Major                 |                                                                |
-+------------------------+-------------------------------------------+--------------------+
-|  Programming CourseWork|                                                                |
-+------------------------+-------------------------------------------+--------------------+
-|  CS CourseWork         |                                                                |
-+------------------------+-------------------------------------------+--------------------+
++------------------------+-------------------------------------------+-------------------+
+|  M.S.                  | National Chiao Tung University, Hsinchu   | Feb.2013- Feb.2016|
+|                        |                                           |      3 years      |
++========================+===========================================+===================+
+|  Major                 | Network Engineering,The second year of the Master’s programs  |
++------------------------+-------------------------------------------+-------------------+
+|  Advisor               |          Yi-Bing Lin 林一平                                    |
++------------------------+-------------------------------------------+-------------------+
 
-+------------------------+-------------------------------------------+--------------------+
-|  M.S.                  | National Chiao Tung University, Hsinchu   | Starting Feb.2013  |
-+========================+============+==================+===========+====================+
-|  Major                 | Network Engineering,The second year of the Master’s programs   |
-+------------------------+-------------------------------------------+--------------------+
-|  Programming CourseWork|                                                                |
-+------------------------+-------------------------------------------+--------------------+
-|  CS CourseWork         |                                                                |
-+------------------------+-------------------------------------------+--------------------+
+
+- Master’s Thesis: `Scheduling and Admission Control for Taxi Advertising System <bit.ly/排程系統>`_ 
+
 
 +------------------------+-------------------------------------------+--------------------+
 |  B.S.                  |       Tunghai University, Taichung        | Sep.2009- Feb.2013 |
-+========================+============+==================+===========+====================+
-|  Major                 | Computer Science,Ranked 1st. Average 92.76                     |
+|                        |                                           |      4 years       |
++========================+===========================================+====================+
+| Major                  | Department of Computer Science &                               |
+|                        | Information Engineering,Ranked 1st. Average 92.76              |
 +------------------------+-------------------------------------------+--------------------+
-|  Programming CourseWork|  Data Structures,Algorithms,Operating Systems                  |
+| Advisor                |          Fang-Yi Lu  呂芳懌                                    |
 +------------------------+-------------------------------------------+--------------------+
-|  CS CourseWork         |                                                                |
-+------------------------+-------------------------------------------+--------------------+
-  
+
+- Thesis:`Restaurant Management System Based on Android Platform <bit.ly/點餐系統>`_ 
+ 
 - Employment
- - Software Engineer,Intern     ICL-ITRI               Starting Apr.2014      
+ - Software Engineer,High Tech Computer Corporation, Starting Mar.2016~present  
+ - Backend Engineer,Intern        ICL-ITRI               Apr.2014-Feb.2016 3years      
  - Design scheduling system for taxi advertising, and this project cooperates with the Taiwan Taxi.
  - Design server library “Trust Circle” for “BuddySquare” platform which adopts user’s history data to make recommendations.
  -  
  - Master’s Thesis  National Chiao Tung University     Starting Jul.2014  
- - Propose a scheduling algorithm based on real-time system EDF algorithm and improve advertising time usage. 
- - `Scheduling and Admission Control for Taxi Advertising System <https://ictjournal.itri.org.tw/content/Messagess/contents.aspx?&MmmID=654304432061644411&CatID=654313611255143006&MSID=707031015232142422>`_ 
+ - Propose a scheduling algorithm based on real-time system EDF algorithm and improve advertising time usage.  
  -
  - Undergraduates   Tunghai University                  Jun.2012-Jan.2013 
  - Develop the project“Restaurant Management System Based on Android” and implement both server and client side; customer use tablet to order; waitress use smartphone check status of customer; cashier and chief side have also been done.  
- - `Restaurant Management System Based on Android Platform <http://www.cs.thu.edu.tw/web/subject/detail.php?cid=1&id=10>`_ 
  -
 - Software Projects
  - `Python Practice <https://github.com/eric999j/Udemy_Python_Hand_On>`_
