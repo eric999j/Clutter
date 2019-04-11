@@ -18,7 +18,7 @@ Bo-Heng Lu 盧柏亨
 +------------------------+-------------------------------------------+-------------------+
 
 
-- Master’s Thesis: `Scheduling and Admission Control for Taxi Advertising System <bit.ly/排程系統>`_ 
+ - Master’s Thesis: `Scheduling and Admission Control for Taxi Advertising System <bit.ly/排程系統>`_ 
 
 
 +------------------------+-------------------------------------------+--------------------+
@@ -31,7 +31,7 @@ Bo-Heng Lu 盧柏亨
 | Advisor                |          Fang-Yi Lu  呂芳懌                                    |
 +------------------------+-------------------------------------------+--------------------+
 
-- Thesis:`Restaurant Management System Based on Android Platform <bit.ly/點餐系統>`_ 
+ - Thesis:`Restaurant Management System Based on Android Platform <bit.ly/點餐系統>`_ 
  
 - Employment
  - Software Engineer,High Tech Computer Corporation, Starting Mar.2016~present  
