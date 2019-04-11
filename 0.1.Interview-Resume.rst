@@ -1,11 +1,11 @@
 ----
-Bo-Heng Lu
+Bo-Heng Lu 盧柏亨  
 ----
 
 - Profile
  - https://github.com/eric999j  
  
-- Education  
+- Educations  
 +------------------------+-------------------------------------------+--------------------+
 |  M.S.                  | National Chiao Tung University, Hsinchu   | Starting Feb.2013  |
 +========================+============+==================+===========+====================+
@@ -32,18 +32,22 @@ Bo-Heng Lu
  - Design server library “Trust Circle” for “BuddySquare” platform which adopts user’s history data to make recommendations.
  -  
  - Master’s Thesis  National Chiao Tung University     Starting Jul.2014  
- - Propose a scheduling algorithm based on real-time system EDF algorithm and improve advertising time usage.  
+ - Propose a scheduling algorithm based on real-time system EDF algorithm and improve advertising time usage. 
+ - `Scheduling and Admission Control for Taxi Advertising System <https://ictjournal.itri.org.tw/content/Messagess/contents.aspx?&MmmID=654304432061644411&CatID=654313611255143006&MSID=707031015232142422>`_ 
  -
  - Undergraduates   Tunghai University                  Jun.2012-Jan.2013 
  - Develop the project“Restaurant Management System Based on Android”
 and implement both server and client side; customer use tablet to order; waitress use smartphone check status of customer; cashier and chief side have also been done.  
- 
+ - `Restaurant Management System Based on Android Platform <http://www.cs.thu.edu.tw/web/subject/detail.php?cid=1&id=10>`_ 
+ -
 - Software Projects
  - `Python Practice <https://github.com/eric999j/Udemy_Python_Hand_On>`_
  - `Python Coway's Game of Life <https://github.com/eric999j/Conway-s-Game-of-Life>`_  
  - `Java Design Pattern <https://github.com/eric999j/DesignPattern>`_ 
- 
-- Skills  
- - Programming Languages:Java,Python  
+
+- Technical Skills  
+Rapid absorption and induction of new knowledges.  
+Familiar with android system design,scheduling and admission control and havinging experiences to design recommendation system. 
+ - Programming:Java,Python  
  - Software:Java Swing,Git(familiar),Tomcat(familiar),Anaconda,Spyder    
  - Systems:Windows,Ubuntu,CentOS,MacOS,Android
