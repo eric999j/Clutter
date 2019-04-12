@@ -35,7 +35,7 @@ Bo-Heng Lu 盧柏亨
 - Employment Experiences
  - Senior Software Engineer                HTC                 Starting Mar.2016~present  
  - 
- - Backend Engineer,Intern        ICL-ITRI               Apr.2014-Feb.2016 3years      
+ - Backend Engineer,Intern     ICL-ITRI               Apr.2014-Feb.2016 3years      
  - Propose a scheduling algorithm based on real-time system EDF algorithm and improve advertising time usage. 
  - Design scheduling system for taxi advertising, and this project cooperate with the Taiwan Taxi.
  - Design server library “Trust Circle” for “BuddySquare” platform which adopts user’s history data to make recommendations.
@@ -51,3 +51,15 @@ Havinging experiences to design recommendation system.
  - Programming:Java,Python  
  - Software:Java Swing,Git,Tomcat,Anaconda,Spyder    
  - Systems:Windows,Ubuntu,CentOS,MacOS,Android
+
+- Publications
+ - `ITRI Computer and Communications journal <http://bit.ly/工研排程系統>`_   
+ 
+- Aware and Honors
+  - `2012 NCHC SCC 2nd <https://event.nchc.org.tw/2012/tscc/print_content.php?CONTENT_ID=25 >`_  
+  
+- Abbreviation  
+ - NCHC,National Center for High-Performance Computing Taiwan  
+ - SCC,Student Cluster Challenge  
+ - ITRT,Industrial Technology Research Institute
+ - ICL,Information and Communications Research Laboratories
