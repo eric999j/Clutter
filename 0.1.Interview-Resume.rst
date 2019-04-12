@@ -56,7 +56,7 @@ Havinging experiences to design recommendation system.
  - `ITRI Computer and Communications journal <http://bit.ly/工研排程系統>`_   
  
 - Aware and Honors
-  - `2012 NCHC SCC 2nd <https://event.nchc.org.tw/2012/tscc/print_content.php?CONTENT_ID=25 >`_  
+  - `2012 NCHC SCC 2nd <https://event.nchc.org.tw/2012/tscc/print_content.php?CONTENT_ID=25>`_  
   
 - Abbreviation  
  - NCHC,National Center for High-Performance Computing Taiwan  
