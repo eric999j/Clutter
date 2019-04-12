@@ -61,5 +61,5 @@ Havinging experiences to design recommendation system.
 - Abbreviation  
  - NCHC,National Center for High-Performance Computing Taiwan  
  - SCC,Student Cluster Challenge  
- - ITRT,Industrial Technology Research Institute
+ - ITRI,Industrial Technology Research Institute
  - ICL,Information and Communications Research Laboratories
