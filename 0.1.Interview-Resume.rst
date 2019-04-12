@@ -8,10 +8,11 @@ Bo-Heng Lu 盧柏亨
 - Educations 
 
 +------------------------+-------------------------------------------+-------------------+
-|  M.S.                  | National Chiao Tung University, Hsinchu   | Feb.2013- Feb.2016|
+|  M.S.                  |              NCTU, Hsinchu                | Feb.2013- Feb.2016|
 |                        |                                           |      3 years      |
 +========================+===========================================+===================+
-|  Major                 | Network Engineering,The second year of the Master’s programs  |
+|  Major                 |                        Network Engineering                    |
+|                        |              The second year of the Master’s programs         |
 +------------------------+-------------------------------------------+-------------------+
 |  Advisor               |          Yi-Bing Lin 林一平                                   |
 +------------------------+-------------------------------------------+-------------------+
@@ -24,8 +25,8 @@ Bo-Heng Lu 盧柏亨
 |  B.S.                  |       Tunghai University, Taichung        | Sep.2009- Feb.2013 |
 |                        |                                           |      4 years       |
 +========================+===========================================+====================+
-| Major                  | Department of Computer Science &                               |
-|                        | Information Engineering,Ranked 1st. Average 92.76              |
+| Major                  |                              CSIE                              |
+|                        |                        1st. Average 92.76                      |
 +------------------------+-------------------------------------------+--------------------+
 | Advisor                |          Fang-Yi Lu  呂芳懌                                    |
 +------------------------+-------------------------------------------+--------------------+
@@ -33,9 +34,9 @@ Bo-Heng Lu 盧柏亨
  - Thesis:`Restaurant Management System Based on Android Platform <http://bit.ly/點餐系統>`_ 
  
 - Employment Experiences
- - Senior Software Engineer                HTC                 Starting Mar.2016~present  
+ - Senior Software Engineer               HTC                  Starting Mar.2016    
  - 
- - Backend Engineer,Intern     ICL-ITRI               Apr.2014-Feb.2016 3years      
+ - Backend Engineer,Intern              ICL-ITRI               Apr.2014-Feb.2016 3years      
  - Propose a scheduling algorithm based on real-time system EDF algorithm and improve advertising time usage. 
  - Design scheduling system for taxi advertising, and this project cooperate with the Taiwan Taxi.
  - Design server library “Trust Circle” for “BuddySquare” platform which adopts user’s history data to make recommendations.
@@ -63,3 +64,5 @@ Havinging experiences to design recommendation system.
  - SCC,Student Cluster Challenge  
  - ITRI,Industrial Technology Research Institute
  - ICL,Information and Communications Research Laboratories
+ - CSIE,Department of Computer Science & Information Engineering
+ - NCTU, National Chiao Tung University
