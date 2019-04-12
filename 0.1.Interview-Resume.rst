@@ -7,7 +7,6 @@ Bo-Heng Lu 盧柏亨
  
 - Educations 
 
-
 +------------------------+-------------------------------------------+-------------------+
 |  M.S.                  | National Chiao Tung University, Hsinchu   | Feb.2013- Feb.2016|
 |                        |                                           |      3 years      |
@@ -34,17 +33,15 @@ Bo-Heng Lu 盧柏亨
  - Thesis:`Restaurant Management System Based on Android Platform <http://bit.ly/點餐系統>`_ 
  
 - Employment
- - Software Engineer,High Tech Computer Corporation, Starting Mar.2016~present  
+ - Software Engineer                HTC                 Starting Mar.2016~present  
+ - 
+ - 
+ - 
  - Backend Engineer,Intern        ICL-ITRI               Apr.2014-Feb.2016 3years      
- - Design scheduling system for taxi advertising, and this project cooperates with the Taiwan Taxi.
+ - Propose a scheduling algorithm based on real-time system EDF algorithm and improve advertising time usage. 
+ - Design scheduling system for taxi advertising, and this project cooperate with the Taiwan Taxi.
  - Design server library “Trust Circle” for “BuddySquare” platform which adopts user’s history data to make recommendations.
  -  
- - Master’s Thesis  National Chiao Tung University     Starting Jul.2014  
- - Propose a scheduling algorithm based on real-time system EDF algorithm and improve advertising time usage.  
- -
- - Undergraduates   Tunghai University                  Jun.2012-Jan.2013 
- - Develop the project“Restaurant Management System Based on Android” and implement both server and client side; customer use tablet to order; waitress use smartphone check status of customer; cashier and chief side have also been done.  
- -
 - Software Projects
  - `Python Practice <https://github.com/eric999j/Udemy_Python_Hand_On>`_
  - `Python Coway's Game of Life <https://github.com/eric999j/Conway-s-Game-of-Life>`_  
