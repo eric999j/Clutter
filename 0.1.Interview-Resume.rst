@@ -17,7 +17,7 @@ Bo-Heng Lu 盧柏亨
 +------------------------+-------------------------------------------+-------------------+
 
 
- - Master’s Thesis: `Scheduling and Admission Control for Taxi Advertising System <http://bit.ly/排程碩論>`_ 
+ - Master Thesis: `Scheduling and Admission Control for Taxi Advertising System <http://bit.ly/排程碩論>`_ 
 
 
 +------------------------+-------------------------------------------+--------------------+
@@ -32,10 +32,8 @@ Bo-Heng Lu 盧柏亨
 
  - Thesis:`Restaurant Management System Based on Android Platform <http://bit.ly/點餐系統>`_ 
  
-- Employment
- - Software Engineer                HTC                 Starting Mar.2016~present  
- - 
- - 
+- Employment Experiences
+ - Senior Software Engineer                HTC                 Starting Mar.2016~present  
  - 
  - Backend Engineer,Intern        ICL-ITRI               Apr.2014-Feb.2016 3years      
  - Propose a scheduling algorithm based on real-time system EDF algorithm and improve advertising time usage. 
@@ -47,9 +45,9 @@ Bo-Heng Lu 盧柏亨
  - `Python Coway's Game of Life <https://github.com/eric999j/Conway-s-Game-of-Life>`_  
  - `Java Design Pattern <https://github.com/eric999j/DesignPattern>`_ 
 
-- Technical Skills  
-Rapid absorption and induction of new knowledges.  
-Familiar with android system design,scheduling and admission control and havinging experiences to design recommendation system. 
+- Technical Skills   
+Familiar with android system design,scheduling and admission control.  
+Havinging experiences to design recommendation system. 
  - Programming:Java,Python  
- - Software:Java Swing,Git(familiar),Tomcat(familiar),Anaconda,Spyder    
+ - Software:Java Swing,Git,Tomcat,Anaconda,Spyder    
  - Systems:Windows,Ubuntu,CentOS,MacOS,Android
