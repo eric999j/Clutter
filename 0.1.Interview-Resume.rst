@@ -31,7 +31,7 @@ Bo-Heng Lu 盧柏亨
 | Advisor                |          Fang-Yi Lu  呂芳懌                                    |
 +------------------------+-------------------------------------------+--------------------+
 
- - Thesis:`Restaurant Management System Based on Android Platform <http://bit.ly/點餐系統>`_ 
+ - Final Project:`Restaurant Management System Based on Android Platform <http://bit.ly/點餐系統>`_ 
  
 - Employment Experiences
  - Senior Software Engineer               HTC                  Starting Mar.2016    
