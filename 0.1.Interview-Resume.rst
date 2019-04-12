@@ -39,13 +39,12 @@ Bo-Heng Lu 盧柏亨
  - Backend Engineer,Intern              ICL-ITRI               Apr.2014-Feb.2016 3years      
  - Propose a scheduling algorithm based on real-time system EDF algorithm and improve advertising time usage. 
  - Design scheduling system for taxi advertising, and this project cooperate with the Taiwan Taxi.
- - Design server library “Trust Circle” for “BuddySquare” platform which adopts user’s history data to make recommendations.
- -  
+ - Design server library “Trust Circle” for “BuddySquare” platform which adopts user’s history data to make recommendations. 
 - Software Projects
  - `Python Practice <https://github.com/eric999j/Udemy_Python_Hand_On>`_
  - `Python Coway's Game of Life <https://github.com/eric999j/Conway-s-Game-of-Life>`_  
- - `Java Design Pattern <https://github.com/eric999j/DesignPattern>`_ 
-
+ - `Java Design Pattern <https://github.com/eric999j/DesignPattern>`_
+ 
 - Technical Skills   
 Familiar with android system design,scheduling and admission control.  
 Havinging experiences to design recommendation system. 
