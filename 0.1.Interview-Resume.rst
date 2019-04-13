@@ -57,11 +57,3 @@ Havinging experiences to design recommendation system.
  
 - Aware and Honors  
  - `2012 NCHC SCC 2nd <https://event.nchc.org.tw/2012/tscc/print_content.php?CONTENT_ID=25>`_  
-  
-- Abbreviation  
- - NCHC,National Center for High-Performance Computing Taiwan  
- - SCC,Student Cluster Challenge  
- - ITRI,Industrial Technology Research Institute
- - ICL,Information and Communications Research Laboratories
- - CSIE,Department of Computer Science & Information Engineering
- - NCTU, National Chiao Tung University
