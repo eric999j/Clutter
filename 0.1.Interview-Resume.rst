@@ -18,7 +18,7 @@ Bo-Heng Lu 盧柏亨
 +------------------------+-------------------------------------------+-------------------+
 
 
- - Master Thesis: `Scheduling and Admission Control for Taxi Advertising System <http://bit.ly/排程碩論>`_ 
+ - Master Thesis:`Scheduling and Admission Control for Taxi Advertising System <http://bit.ly/排程碩論>`_ 
 
 
 +------------------------+-------------------------------------------+--------------------+
