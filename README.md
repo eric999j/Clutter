@@ -9,6 +9,6 @@ This is a place to put my clutters, no matter you like it or not, welcome here.
 1.3.好用的系列Awesome Things   
 1.4.樹莓派應用Raspberry pi Applications  
 2.領導Leadership  
-2.8.網路行銷Internet Promotion
+2.8.網路行銷Internet Promotion  
 3.主管Management  
 4.退休Retirement    
