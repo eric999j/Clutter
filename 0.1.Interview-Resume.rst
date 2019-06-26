@@ -12,7 +12,7 @@ Bo-Heng Lu 盧柏亨
 |                        |                                           |      3 years      |
 +========================+===========================================+===================+
 |  Major                 |                        Network Engineering                    |
-|                        |              The second year of the Master’s programs         |
+|                        |              The second year of the Master’s program.         |
 +------------------------+-------------------------------------------+-------------------+
 |  Advisor               |          Yi-Bing Lin 林一平                                   |
 +------------------------+-------------------------------------------+-------------------+
@@ -37,9 +37,9 @@ Bo-Heng Lu 盧柏亨
  - Senior Software Engineer               HTC                  Starting Mar.2016    
  - 
  - Backend Engineer,Intern              ICL-ITRI               Apr.2014-Feb.2016 3years      
- - Propose a scheduling algorithm based on real-time system EDF algorithm and improve advertising time usage. 
- - Design scheduling system for taxi advertising, and this project cooperate with the Taiwan Taxi.
- - Build server library “Trust Circle” for “BuddySquare” platform which adopts user’s history data to make recommendations. 
+ - Proposed a scheduling algorithm based on real-time system EDF algorithm and improve advertising time usage. 
+ - Designed scheduling system for taxi advertising, and this project cooperate with the Taiwan Taxi.
+ - Built server library “Trust Circle” for “BuddySquare” platform which adopts user’s history data to make recommendations. 
 - Software Projects
  - `Python Practice <https://github.com/eric999j/Udemy_Python_Hand_On>`_
  - `Python Coway's Game of Life <https://github.com/eric999j/Conway-s-Game-of-Life>`_  
@@ -47,7 +47,7 @@ Bo-Heng Lu 盧柏亨
  
 - Technical Skills   
 Familiar with android system design,scheduling and admission control.  
-Havinging experiences to design recommendation system. 
+Having experiences to design recommendation system. 
  - Programming:Java,Python  
  - Software:Java Swing,Git,Tomcat,Anaconda,Spyder    
  - Systems:Windows,Ubuntu,CentOS,MacOS,Android
