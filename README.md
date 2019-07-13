@@ -8,7 +8,7 @@ This is a place to put my clutters, no matter you like it or not, welcome here.
 1.2.運帷DevOps    
 1.3.好用的系列Awesome Things   
 1.4.樹莓派應用Raspberry pi Applications   
-2.1領導力Leadership  
+2.1領導Leadership  
 2.2執行目標Execution  
 2.3文書的To Instrument  
 2.4說話的To Speak  
