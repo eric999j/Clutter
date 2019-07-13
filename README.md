@@ -10,8 +10,8 @@ This is a place to put my clutters, no matter you like it or not, welcome here.
 1.4.樹莓派應用Raspberry pi Applications   
 2.1領導力Leadership  
 2.2執行目標Execution  
-2.3文書的About to Instrument  
-2.4說話的About to Speaker  
+2.3文書的To Instrument  
+2.4說話的To Speaker  
 2.5.網路行銷Internet Promotion  
 3.1.主管Management  
 3.2.規劃目標Plan a goal
