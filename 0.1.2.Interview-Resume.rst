@@ -3,13 +3,39 @@ Bo-Heng Lu 盧柏亨
 ----
 
 - Profile
- - E-mail: eric999j@gmail.com  
  - https://github.com/eric999j  
+ - E-mail: eric999j@gmail.com  
+ - Programming Languages: Java, Python  
+
+- Experiences
+ - Senior Software Engineer               HTC                 Mar 2016-Present    
+ - 
+ - Backend Engineer,Intern              ICL-ITRI               Apr 2014-Feb 2016 3years      
+ - Proposed a scheduling algorithm based on real-time system EDF algorithms and improved advertising time usage. 
+ - Designed scheduling system for taxi advertising, and cooperate with the Taiwan Taxi.
+ - Built server library “Trust Circle” for “BuddySquare” platform which adopts user’s historical data to make recommendations. 
+
+- Technical Skills   
+Familiar with android system design, scheduling and admission control.  
+Having experiences to design recommendation system.   
+ - Software:Java Swing,Git,Tomcat,Anaconda,Spyder    
+ - Systems:Windows,Ubuntu,CentOS,MacOS,Android
+
+- Software Projects
+ - `Java Design Pattern <https://github.com/eric999j/DesignPattern>`_
+ - `Python Practice <https://github.com/eric999j/Udemy_Python_Hand_On>`_
+ - `Python Coway's Game of Life <https://github.com/eric999j/Conway-s-Game-of-Life>`_  
  
+- Leadership and Awards    
+ - `2012 NCHC SCC 2nd <https://event.nchc.org.tw/2012/tscc/print_content.php?CONTENT_ID=25>`_  
+ 
+- Publications
+ - `ITRI Computer and Communications journal <http://bit.ly/工研排程系統>`_   
+
 - Educations 
 
 +------------------------+-------------------------------------------+-------------------+
-|  M.S.                  |              NCTU, Hsinchu                | Feb.2013- Feb.2016|
+|  M.S.                  |              NCTU, Hsinchu                | Feb 2013- Feb 2016|
 |                        |                                           |      3 years      |
 +========================+===========================================+===================+
 |  Major                 |                        Network Engineering                    |
@@ -23,7 +49,7 @@ Bo-Heng Lu 盧柏亨
 
 
 +------------------------+-------------------------------------------+--------------------+
-|  B.S.                  |       Tunghai University, Taichung        | Sep.2009- Feb.2013 |
+|  B.S.                  |       Tunghai University, Taichung        | Sep 2009- Feb 2013 |
 |                        |                                           |      4 years       |
 +========================+===========================================+====================+
 | Major                  |                              CSIE                              |
@@ -33,28 +59,3 @@ Bo-Heng Lu 盧柏亨
 +------------------------+-------------------------------------------+--------------------+
 
  - Final Project:`Restaurant Management System Based on Android Platform <http://bit.ly/點餐系統>`_ 
- 
-- Employment Experiences
- - Senior Software Engineer               HTC                  Starting Mar.2016    
- - 
- - Backend Engineer,Intern              ICL-ITRI               Apr.2014-Feb.2016,possesses 3years      
- - Proposed a scheduling algorithm based on real-time system EDF algorithms and improve advertising time usage. 
- - Designed scheduling system for taxi advertising, and this project cooperate with the Taiwan Taxi.
- - Built server library “Trust Circle” for “BuddySquare” platform which adopts user’s historical data to make recommendations. 
-- Software Projects
- - `Python Practice <https://github.com/eric999j/Udemy_Python_Hand_On>`_
- - `Python Coway's Game of Life <https://github.com/eric999j/Conway-s-Game-of-Life>`_  
- - `Java Design Pattern <https://github.com/eric999j/DesignPattern>`_
- 
-- Technical Skills   
-Familiar with android system design, scheduling and admission control.  
-Having experiences to design recommendation system. 
- - Programming:Java,Python  
- - Software:Java Swing,Git,Tomcat,Anaconda,Spyder    
- - Systems:Windows,Ubuntu,CentOS,MacOS,Android
-
-- Publications
- - `ITRI Computer and Communications journal <http://bit.ly/工研排程系統>`_   
- 
-- Aware and Honors  
- - `2012 NCHC SCC 2nd <https://event.nchc.org.tw/2012/tscc/print_content.php?CONTENT_ID=25>`_  
