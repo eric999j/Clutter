@@ -18,6 +18,7 @@ Bo-Heng Lu 盧柏亨
 - Technical Skills   
 Familiar with android system design, scheduling and admission control.  
 Having experiences to design recommendation system.   
+
  - Software:Java Swing,Git,Tomcat,Anaconda,Spyder    
  - Systems:Windows,Ubuntu,CentOS,MacOS,Android
 
