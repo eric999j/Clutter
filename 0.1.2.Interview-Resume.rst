@@ -9,7 +9,7 @@ Bo-Heng Lu 盧柏亨
 
 - Experiences
  - Senior Software Engineer               HTC                 Mar 2016-Present    
- - Android Apps
+ - Android Apps 2016-2019  
   - TellHTC: HTC error report and BI data collect mechanism, responsible for code development and maintenance.  
   - SmithLite: An app for SSD team internal use, responsible for code development, interface design and usage flow design.  
   - UIBC: An app for mobile phone and vehicle device interactive projection, responsible for code maintenance.  
