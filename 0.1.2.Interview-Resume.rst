@@ -10,10 +10,10 @@ Bo-Heng Lu 盧柏亨
 - Experiences
  - Senior Software Engineer               HTC                 Mar 2016-Present    
  - Android Apps
-  - TellHTC: HTC error report and BI data collect mechanism, response for code develop and maintenance.  
-  - SmithLite: An app for SSD team internal use, response for code develop, interface design and usage flow design.  
-  - UIBC: An app for mobile phone and vehicle device interactive projection, response for code maintenance.  
-  - Play Auto Install,PAI: Install apps from Google play store automatically by different SKU, response for code mantenance.  
+  - TellHTC: HTC error report and BI data collect mechanism, responsible for code develop and maintenance.  
+  - SmithLite: An app for SSD team internal use, responsible for code develop, interface design and usage flow design.  
+  - UIBC: An app for mobile phone and vehicle device interactive projection, responsible for code maintenance.  
+  - Play Auto Install,PAI: Install apps from Google play store automatically by different SKU, responsible for code mantenance.  
  
  - Backend Engineer,Intern              ICL-ITRI               Apr 2014-Feb 2016 3years      
  - Proposed a scheduling algorithm based on real-time system EDF algorithms and improved advertising time usage. 
