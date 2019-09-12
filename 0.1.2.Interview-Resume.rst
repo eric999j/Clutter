@@ -5,7 +5,6 @@ Bo-Heng Lu 盧柏亨
 - Profile
  - https://github.com/eric999j  
  - E-mail: eric999j@gmail.com  
- - Programming Languages: Java, Python  
  - `IT Home Competition <https://ithelp.ithome.com.tw/users/20114906/ironman/2153>`_
 
 - Experiences
@@ -23,8 +22,9 @@ Bo-Heng Lu 盧柏亨
  - Built server library “Trust Circle” for “BuddySquare” platform which adopts user’s historical data to make recommendations. 
 
 - Technical Skills   
-Familiar with android system design, scheduling and admission control. Having experiences to design recommendation system.   
- - Knowledge: Design Pattern, Machine Learning, Deep Learning   
+Familiar with android system design, scheduling and admission control. Having experiences to design recommendation system.  
+ - Knowledge: Design Pattern, Machine Learning, Deep Learning 
+ - Programming Languages: Java, Python    
  - Tools: Java Swing, Git, Tomcat, Anaconda, Spyder    
  - Systems: Windows, Ubuntu, CentOS, MacOS, Android
 
