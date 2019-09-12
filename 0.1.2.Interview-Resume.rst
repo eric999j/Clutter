@@ -14,7 +14,8 @@ Bo-Heng Lu 盧柏亨
   - SmithLite: An app for SSD team internal use, responsible for code development, interface design and usage flow design.  
   - UIBC: An app for mobile phone and vehicle device interactive projection, responsible for code maintenance.  
   - Play Auto Install,PAI: Install apps from Google play store automatically by different SKU, responsible for code mantenance.  
- 
+ - Blockchain
+  - 
  - Backend Engineer,Intern              ICL-ITRI               Apr 2014-Feb 2016 3years      
  - Proposed a scheduling algorithm based on real-time system EDF algorithms and improved advertising time usage. 
  - Designed scheduling system for taxi advertising, and cooperate with the Taiwan Taxi.
