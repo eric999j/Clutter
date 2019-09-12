@@ -23,9 +23,9 @@ Bo-Heng Lu 盧柏亨
 
 - Technical Skills   
 Familiar with android system design, scheduling and admission control. Having experiences to design recommendation system.   
-
- - Software:Java Swing,Git,Tomcat,Anaconda,Spyder    
- - Systems:Windows,Ubuntu,CentOS,MacOS,Android
+ - Knowledge: Design Pattern, Machine Learning, Deep Learning   
+ - Tools: Java Swing, Git, Tomcat, Anaconda, Spyder    
+ - Systems: Windows, Ubuntu, CentOS, MacOS, Android
 
 - Software Projects
  - `Java Design Pattern <https://github.com/eric999j/DesignPattern>`_
@@ -51,8 +51,8 @@ Familiar with android system design, scheduling and admission control. Having ex
 +------------------------+-------------------------------------------+-------------------+
 
 
- - Master Thesis:`Scheduling and Admission Control for Taxi Advertising System <http://bit.ly/排程碩論>`_ 
-
+ - Master Thesis: `Scheduling and Admission Control for Taxi Advertising System <http://bit.ly/排程碩論>`_ 
+ - Program Highlights: Scheduling and Admission Control,Recommendation system, System Analysis and Design  
 
 +------------------------+-------------------------------------------+--------------------+
 |  B.S.                  |       Tunghai University, Taichung        | Sep 2009- Feb 2013 |
@@ -64,4 +64,5 @@ Familiar with android system design, scheduling and admission control. Having ex
 | Advisor                |          Fang-Yi Lu  呂芳懌                                    |
 +------------------------+-------------------------------------------+--------------------+
 
- - Final Project:`Restaurant Management System Based on Android Platform <http://bit.ly/點餐系統>`_ 
+ - Final Project: `Restaurant Management System Based on Android Platform <http://bit.ly/點餐系統>`_ 
+ - Program Highlights: Object-Oriented Programming(Java), Algorithms and Data Structure, Database System  
