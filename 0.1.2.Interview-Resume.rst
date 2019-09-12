@@ -53,7 +53,7 @@ Familiar with android system design, scheduling and admission control. Having ex
 
 
  - Master Thesis: `Scheduling and Admission Control for Taxi Advertising System <http://bit.ly/排程碩論>`_ 
- - Program Highlights: Scheduling and Admission Control,Recommendation system, System Analysis and Design  
+ - Program Highlights: Scheduling and Admission Control,Recommendation System, System Analysis and Design  
 
 +------------------------+-------------------------------------------+--------------------+
 |  B.S.                  |       Tunghai University, Taichung        | Sep 2009- Feb 2013 |
