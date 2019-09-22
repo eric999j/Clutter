@@ -32,6 +32,6 @@ This is a place to put my clutters, no matter you like it or not, welcome here.
 4.3.華視日語教學CTS Japanese Lessons  
 4.4.進階日語學習Advanced Japanese Learning  
 4.5.英文文法 English Grammar   
-4.6.  
-4.7.美劇 U.S. drama  
+4.6.Camdemy英文基本文法 Camdemy English Grammar   
+4.7.美劇 U.S. rama  
 
