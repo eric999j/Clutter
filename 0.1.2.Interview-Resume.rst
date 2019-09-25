@@ -5,7 +5,7 @@ Bo-Heng Lu 盧柏亨
 - Profile
  - https://github.com/eric999j  
  - E-mail: eric999j@gmail.com  
- - `IT Home Competition <https://ithelp.ithome.com.tw/users/20114906/ironman/2153>`_
+ - `IT Home Competition 2019 AI&Data <https://ithelp.ithome.com.tw/users/20114906/ironman/2153>`_
 
 - Experiences
  - Senior Software Engineer               HTC                 Mar 2016-Present    
