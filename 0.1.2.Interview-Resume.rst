@@ -5,7 +5,6 @@ Bo-Heng Lu 盧柏亨
 - Profile
  - https://github.com/eric999j  
  - E-mail: eric999j@gmail.com  
- - `IT Home Competition 2019 AI&Data <https://ithelp.ithome.com.tw/users/20114906/ironman/2153>`_
 
 - Experiences
  - Senior Software Engineer               HTC                 Mar 2016-Present    
@@ -34,10 +33,11 @@ Familiar with android system design, scheduling and admission control. Having ex
  - `Python Coway's Game of Life <https://github.com/eric999j/Conway-s-Game-of-Life>`_  
  
 - Leadership and Awards    
- - `2012 NCHC SCC 2nd <https://event.nchc.org.tw/2012/tscc/print_content.php?CONTENT_ID=25>`_  
- 
+ - `2012 NCHC SCC 2nd <https://event.nchc.org.tw/2012/tscc/print_content.php?CONTENT_ID=25>`_ 
+ - `IT Home Competition 2019 AI&Data <https://ithelp.ithome.com.tw/users/20114906/ironman/2153>`_
+  
 - Publications
- - `ITRI Computer and Communications journal <http://bit.ly/工研排程系統>`_   
+ - `ITRI Computer and Communications journal <http://bit.ly/工研排程系統>`_  
 
 - Educations 
 
