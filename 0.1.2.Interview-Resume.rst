@@ -1,7 +1,7 @@
 ----
 Bo-Heng Lu 盧柏亨  
 ----
-`PDF <files/0.1.2.Interview-Resume.pdf>`_
+`PDF <https://github.com/eric999j/Clutter/blob/master/files/0.1.2.Interview-Resume.pdf>`_
 
 - Profile
  - https://github.com/eric999j  
