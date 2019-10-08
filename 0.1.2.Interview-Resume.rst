@@ -22,7 +22,7 @@ Bo-Heng Lu 盧柏亨
 
 - Technical Skills   
 Familiar with android system design, scheduling and admission control. Having experiences to design recommendation system.  
- - Knowledge: Design Pattern, Machine Learning, Deep Learning 
+ - Knowledges: Design Pattern, Machine Learning, Deep Learning 
  - Programming Languages: Java, Python    
  - Tools: Java Swing, Git, Tomcat, Anaconda, Spyder    
  - Systems: Windows, Ubuntu, CentOS, MacOS, Android
@@ -37,7 +37,7 @@ Familiar with android system design, scheduling and admission control. Having ex
  - `2019 IT Home Competition AI&Data <https://ithelp.ithome.com.tw/users/20114906/ironman/2153>`_
   
 - Publications
- - `ITRI Computer and Communications journal <http://bit.ly/工研排程系統>`_  
+ - `ITRI Computer and Communications journal <https://ictjournal.itri.org.tw/content/Messagess/contents.aspx?&MmmID=654304432061644411&CatID=654313611255143006&MSID=707031015232142422>`_  
 
 - Educations 
 
@@ -52,7 +52,7 @@ Familiar with android system design, scheduling and admission control. Having ex
 +------------------------+-------------------------------------------+-------------------+
 
 
- - Master Thesis: `Scheduling and Admission Control for Taxi Advertising System <http://bit.ly/排程碩論>`_ 
+ - Master Thesis: `Scheduling and Admission Control for Taxi Advertising System <http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0030-1705201615211251>`_ 
  - Program Highlights: Scheduling and Admission Control,Recommendation System, System Analysis and Design  
 
 +------------------------+-------------------------------------------+--------------------+
@@ -65,5 +65,5 @@ Familiar with android system design, scheduling and admission control. Having ex
 | Advisor                |          Fang-Yi Lu  呂芳懌                                    |
 +------------------------+-------------------------------------------+--------------------+
 
- - Final Project: `Restaurant Management System Based on Android Platform <http://bit.ly/點餐系統>`_ 
+ - Final Project: `Restaurant Management System Based on Android Platform <http://www.cs.thu.edu.tw/web/subject/detail.php?cid=1&id=10>`_ 
  - Program Highlights: Object-Oriented Programming(Java), Algorithms and Data Structure, Database System  
