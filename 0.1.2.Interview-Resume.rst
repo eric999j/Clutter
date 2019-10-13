@@ -22,7 +22,7 @@ Bo-Heng Lu 盧柏亨
 Familiar with android system design, scheduling and admission control. Having experiences to design recommendation system.  
  - Knowledges: Design Pattern, Machine Learning, Deep Learning 
  - Programming Languages: Java, Python    
- - Tools: Java Swing, Git, Tomcat, Anaconda, Spyder    
+ - Tools: Git, Tomcat, Anaconda, Spyder    
  - Systems: Windows, Ubuntu, CentOS, MacOS, Android
 
 - Software Projects
