@@ -40,8 +40,8 @@ Familiar with android system design, scheduling and admission control. Having ex
 - Educations 
 
 +------------------------+-------------------------------------------+-------------------+
-|  M.S.                  |              NCTU, Hsinchu                | Feb 2013- Feb 2016|
-|                        |                                           |      3 years      |
+|  M.S.                  | National Chiao Tung University,NCTU       | Feb 2013- Feb 2016|
+|                        |            Hsinchu                        |      3 years      |
 +========================+===========================================+===================+
 |  Major                 |                        Network Engineering                    |
 |                        |              The second year of the Master’s program.         |
@@ -54,8 +54,8 @@ Familiar with android system design, scheduling and admission control. Having ex
  - Program Highlights: Scheduling and Admission Control,Recommendation System, System Analysis and Design  
 
 +------------------------+-------------------------------------------+--------------------+
-|  B.S.                  |       Tunghai University, Taichung        | Sep 2009- Feb 2013 |
-|                        |                                           |      4 years       |
+|  B.S.                  |       Tunghai University,THU              | Sep 2009- Feb 2013 |
+|                        |         Taichung                          |      4 years       |
 +========================+===========================================+====================+
 | Major                  |                              CSIE                              |
 |                        |                        1st. Average 92.76                      |
