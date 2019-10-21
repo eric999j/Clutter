@@ -24,7 +24,7 @@ This is a place to put my clutters, no matter you like it or not, welcome here.
 
 `Manager`  
 3.1.主管Management  
-3.2.規劃目標Plan a goal 
+3.2.規劃目標Plan goals 
 
 `Retirement`  
 4.1.回憶的Remember  
