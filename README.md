@@ -27,7 +27,7 @@ This is a place to put my clutters, no matter you like it or not, welcome here.
 3.2.規劃目標Plan goals 
 
 `Retirement`  
-4.1.回憶的Remember  
+4.1.回憶的Past  
 4.2.未來的Future  
 4.3.華視日語教學CTS Japanese Lessons  
 4.4.進階日語學習Advanced Japanese Learning  
