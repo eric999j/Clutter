@@ -22,8 +22,8 @@ Bo-Heng Lu 盧柏亨
 Familiar with android system design, scheduling and admission control. Having experiences to design recommendation system.  
  - Knowledges: Design Pattern, Machine Learning, Deep Learning 
  - Programming Languages: Java, Python    
- - Tools: Git, Tomcat, Anaconda, Spyder    
- - Systems: Windows, Ubuntu, CentOS, OSX, iOS, Android
+ - Tools: Anaconda, Git, Spyder, Tomcat    
+ - Systems: Android, CentOS, OSX, iOS, Ubuntu, Windows   
 
 - Software Projects
  - `Java Design Pattern <https://github.com/eric999j/DesignPattern>`_
