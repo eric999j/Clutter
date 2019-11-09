@@ -23,7 +23,7 @@ Familiar with android system design, scheduling and admission control. Having ex
  - Knowledges: Design Pattern, Machine Learning, Deep Learning 
  - Programming Languages: Java, Python    
  - Tools: Git, Tomcat, Anaconda, Spyder    
- - Systems: Windows, Ubuntu, CentOS, MacOS, Android
+ - Systems: Windows, Ubuntu, CentOS, OSX, iOS, Android
 
 - Software Projects
  - `Java Design Pattern <https://github.com/eric999j/DesignPattern>`_
