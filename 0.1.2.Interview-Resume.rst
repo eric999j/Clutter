@@ -34,7 +34,7 @@ Familiar with android system design, scheduling and admission control. Having ex
  - `IT Home Competition AI&Data, 2019 <https://ithelp.ithome.com.tw/users/20114906/ironman/2153>`_
  - The Member of the Phi Tau Phi Scholastic Honor Society of the R.O.C., 2013
  - `2nd NCHC SCC, 2012 <https://event.nchc.org.tw/2012/tscc/print_content.php?CONTENT_ID=25>`_ 
- - 2nd High-Performance Virtual Cluster Design Competition ,NCHU,2012
+ - 2nd High-Performance Virtual Cluster Design Competition ,NCHU, 2012
 
   
 - Publications
