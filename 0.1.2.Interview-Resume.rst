@@ -31,8 +31,8 @@ Familiar with android system design, scheduling and admission control. Having ex
  - `Python Coway's Game of Life <https://github.com/eric999j/Conway-s-Game-of-Life>`_  
  
 - Leadership and Awards    
- - `2012 NCHC SCC 2nd <https://event.nchc.org.tw/2012/tscc/print_content.php?CONTENT_ID=25>`_ 
- - `2019 IT Home Competition AI&Data <https://ithelp.ithome.com.tw/users/20114906/ironman/2153>`_
+ - `2nd NCHC SCC,2012 <https://event.nchc.org.tw/2012/tscc/print_content.php?CONTENT_ID=25>`_ 
+ - `IT Home Competition AI&Data,2019 <https://ithelp.ithome.com.tw/users/20114906/ironman/2153>`_
   
 - Publications
  - `ITRI Computer and Communications journal <https://ictjournal.itri.org.tw/content/Messagess/contents.aspx?&MmmID=654304432061644411&CatID=654313611255143006&MSID=707031015232142422>`_  
