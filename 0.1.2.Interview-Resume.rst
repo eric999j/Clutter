@@ -38,7 +38,7 @@ Familiar with android system design, scheduling and admission control. Having ex
 
   
 - Publications
- - `ITRI Computer and Communications journal <https://ictjournal.itri.org.tw/content/Messagess/contents.aspx?&MmmID=654304432061644411&CatID=654313611255143006&MSID=707031015232142422>`_  
+ - `ITRI Journal of Information and Communication Technology <https://ictjournal.itri.org.tw/content/Messagess/contents.aspx?&MmmID=654304432061644411&CatID=654313611255143006&MSID=707031015232142422>`_  
 
 - Educations 
 
