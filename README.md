@@ -40,4 +40,7 @@ This is a place to put my clutters, no matter you like it or not, welcome here.
 5.6.英文文法 English Grammar   
 5.7.職場英文 Business English  
 5.8.Camdemy英文基本文法 Camdemy English Grammar   
-5.9.美劇 U.S. Drama  
+5.9.美劇 U.S. Drama 
+
+`Administrators`
+6.1.經理人Administrator  
