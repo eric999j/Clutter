@@ -29,6 +29,7 @@ Familiar with android system design, scheduling and admission control. Having ex
  - `Java Design Pattern <https://github.com/eric999j/DesignPattern>`_
  - `Python Practices <https://github.com/eric999j/Udemy_Python_Hand_On>`_
  - `Python Coway's Game of Life <https://github.com/eric999j/Conway-s-Game-of-Life>`_  
+ - Telegram Bot https://telegram.me/I_love_panda_bot  
  
 - Leadership and Awards 
  - `IT Home Competition AI&Data, 2019 <https://ithelp.ithome.com.tw/users/20114906/ironman/2153>`_
