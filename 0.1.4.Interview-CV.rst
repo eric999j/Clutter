@@ -3,10 +3,10 @@ Bo-Heng Lu 盧柏亨
 ----
 `Resume PDF <https://github.com/eric999j/Clutter/blob/master/files/0.1.2.Interview-Resume.pdf>`_
 
-- Profile
+- Personal Details
  - https://github.com/eric999j  
  - E-mail: eric999j@gmail.com  
-- Experiences
+- Relevant Experience
  - Senior Software Engineer               HTC                 Mar.2016-Present    
   - Android Apps 2016-2019  
    - TellHTC: An app for HTC error report and BI data collect mechanism, responsible for code development and maintenance.  
@@ -31,7 +31,7 @@ Familiar with android system design, scheduling and admission control. Having ex
  - `Python Coway's Game of Life <https://github.com/eric999j/Conway-s-Game-of-Life>`_  
  - `Telegram Bot <https://github.com/eric999j/TelegramPandaBot>`_ 
  
-- Leadership and Awards 
+- Honors and Awards
  - `IT Home Competition AI&Data, 2019 <https://ithelp.ithome.com.tw/users/20114906/ironman/2153>`_
  - The Member of the Phi Tau Phi Scholastic Honor Society of the R.O.C., 2013
  - `2nd NCHC SCC, 2012 <https://event.nchc.org.tw/2012/tscc/print_content.php?CONTENT_ID=25>`_ 
@@ -69,4 +69,11 @@ Familiar with android system design, scheduling and admission control. Having ex
 
  - Final Project: `Restaurant Management System Based on Android Platform <http://www.cs.thu.edu.tw/web/subject/detail.php?cid=1&id=10>`_ 
  - Program Highlights: Object-Oriented Programming(Java), Algorithms and Data Structure, Database System  
-
+- Reference
+- Appendix
+ - NCHC,National Center for High-Performance Computing Taiwan  
+ - SCC,Student Cluster Challenge  
+ - ITRI,Industrial Technology Research Institute  
+ - ICL,Information and Communications Research Laboratories  
+ - CSIE,Department of Computer Science & Information Engineering  
+ - NCTU, National Chiao Tung University  
