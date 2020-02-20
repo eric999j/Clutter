@@ -6,11 +6,11 @@ Bo-Heng Lu 盧柏亨
 - Personal Details
  - https://github.com/eric999j  
  - Address:  
- - Phone:  
+ - Phone:+886  
  - E-mail: eric999j@gmail.com  
 - Personal Statement
- - [僅包含技能、經驗，以及支持您學術職涯目標的動機]  
- 
+ - Hi, I'm Eric. I worked at HTC and ITRI as a software engineer for 3 years separately. We use Java developed several apps in HTC, I also developed several libaries in ITRI，I enjoy cooperating with people and learning new knowledge and skills to adapt to the trend of the technology.
+
 - Educations 
 
 +------------------------+-------------------------------------------+-------------------+
@@ -73,7 +73,7 @@ Familiar with android system design, scheduling and admission control. Having ex
  - `Java Design Pattern <https://github.com/eric999j/DesignPattern>`_
  - `Python Practices <https://github.com/eric999j/Udemy_Python_Hand_On>`_
  - `Python Coway's Game of Life <https://github.com/eric999j/Conway-s-Game-of-Life>`_  
- - `Telegram Bot <https://github.com/eric999j/TelegramPandaBot>`_ 
+ - `NodeJS Telegram Bot <https://github.com/eric999j/TelegramPandaBot>`_ 
  
 - Community Involvement
  -[不僅專注於學術機構服務，亦積極參與貢獻學校及社區]
