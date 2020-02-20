@@ -54,7 +54,8 @@ Familiar with android system design, scheduling and admission control. Having ex
 +------------------------+-------------------------------------------+-------------------+
 
 
- - Master Thesis: `Scheduling and Admission Control for Taxi Advertising System <http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0030-1705201615211251>`_ 
+ - Master Thesis: 
+ - `Scheduling and Admission Control for Taxi Advertising System <http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0030-1705201615211251>`_ 
  - `Scheduling and Admission Control for Taxi Advertising System <https://ir.nctu.edu.tw/handle/11536/139562>`_
  - Program Highlights: Scheduling and Admission Control,Recommendation System, System Analysis and Design  
  
