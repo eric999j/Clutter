@@ -86,5 +86,3 @@ Familiar with android system design, scheduling and admission control. Having ex
  - SCC,Student Cluster Challenge  
  - ITRI,Industrial Technology Research Institute  
  - ICL,Information and Communications Research Laboratories  
- - CSIE,Department of Computer Science & Information Engineering  
- - NCTU, National Chiao Tung University  
