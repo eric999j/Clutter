@@ -1,12 +1,12 @@
 ----
 Bo-Heng Lu 盧柏亨  
 ----
-`PDF <>`_
+[PDF]  
 
 - Personal Details
  - https://github.com/eric999j  
- - Address:[-]  
- - Phone:[-]  
+ - Address:  
+ - Phone:  
  - E-mail: eric999j@gmail.com  
 - Personal Statement
  - [僅包含技能、經驗，以及支持您學術職涯目標的動機]  
