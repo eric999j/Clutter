@@ -81,7 +81,7 @@ Familiar with android system design, scheduling and admission control. Having ex
 - Reference
  -[推薦人]
  
-- Appendix
+- Glossary
  - NCHC,National Center for High-Performance Computing Taiwan  
  - SCC,Student Cluster Challenge  
  - ITRI,Industrial Technology Research Institute  
