@@ -46,18 +46,6 @@ Familiar with android system design, scheduling and admission control. Having ex
  - Programming Languages: Java, Python    
  - Tools: Anaconda, Git, Spyder, Tomcat    
  - Systems: Android, CentOS, OSX, iOS, Ubuntu, Windows  
-
-- Honors and Awards
- - `IT Home Competition AI&Data, 2019 <https://ithelp.ithome.com.tw/users/20114906/ironman/2153>`_
- - The Member of the Phi Tau Phi Scholastic Honor Society of the R.O.C., 2013
- - `2nd NCHC SCC, 2012 <https://event.nchc.org.tw/2012/tscc/print_content.php?CONTENT_ID=25>`_ 
- - 2nd High-Performance Virtual Cluster Design Competition ,NCHU, 2012
-
-- Publications
- - `ITRI Journal of Information and Communication Technology , 2016 <https://ictjournal.itri.org.tw/content/Messagess/contents.aspx?&MmmID=654304432061644411&CatID=654313611255143006&MSID=707031015232142422>`_  
- 
-- Certifications 
- -[相關證照]
  
 - Relevant Experience
  - Senior Software Engineer               HTC                 Mar.2016-Present    
@@ -70,6 +58,18 @@ Familiar with android system design, scheduling and admission control. Having ex
   - Proposed a scheduling algorithm based on real-time system EDF algorithms and improved advertising time usage. 
   - Designed scheduling system for taxi advertising, and cooperate with the Taiwan Taxi.
   - Built server library “Trust Circle” for “BuddySquare” platform which adopts user’s historical data to make recommendations. 
+  
+- Honors and Awards
+ - `IT Home Competition AI&Data, 2019 <https://ithelp.ithome.com.tw/users/20114906/ironman/2153>`_
+ - The Member of the Phi Tau Phi Scholastic Honor Society of the R.O.C., 2013
+ - `2nd NCHC SCC, 2012 <https://event.nchc.org.tw/2012/tscc/print_content.php?CONTENT_ID=25>`_ 
+ - 2nd High-Performance Virtual Cluster Design Competition ,NCHU, 2012
+
+- Publications
+ - `ITRI Journal of Information and Communication Technology , 2016 <https://ictjournal.itri.org.tw/content/Messagess/contents.aspx?&MmmID=654304432061644411&CatID=654313611255143006&MSID=707031015232142422>`_  
+ 
+- Certifications 
+ -[相關證照]
 
 - Software Projects
  - `Java Design Pattern <https://github.com/eric999j/DesignPattern>`_
