@@ -4,9 +4,9 @@ Bo-Heng Lu 盧柏亨
 [PDF]  
 
 - https://github.com/eric999j  
-- Address:  
-- Phone:+886  
-- E-mail: eric999j@gmail.com 
+- [Address]  
+- +886  
+- eric999j@gmail.com 
 
 - Personal Statement
  - Hi, I'm Eric. I worked at HTC and ITRI as a software engineer for 3 years separately. We use Java developed several apps in HTC, I also developed several libaries in ITRI，I enjoy cooperating with people and learning new knowledge and skills to adapt to the trend of the technology.
