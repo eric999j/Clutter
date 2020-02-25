@@ -1,11 +1,10 @@
 ----
 Bo-Heng Lu 盧柏亨  
 ----
-`PDF <https://github.com/eric999j/Clutter/blob/master/files/0.1.2.Interview-Resume.pdf>`_
+`PDF <https://github.com/eric999j/Clutter/blob/master/files/0.1.2.Interview-Resume.pdf>`_  
 
-- Profile
- - https://github.com/eric999j  
- - E-mail: eric999j@gmail.com  
+- https://github.com/eric999j  
+- E-mail: eric999j@gmail.com  
 - Experiences
  - Senior Software Engineer               HTC                 Mar.2016-Present    
   - Android Apps 2016-2019  
