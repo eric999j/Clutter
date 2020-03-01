@@ -89,7 +89,8 @@ Familiar with android system design, scheduling and admission control. Having ex
  -[推薦人]
  
 - Glossary
+ - ICL,Information and Communications Research Laboratories  
+ - ITRI,Industrial Technology Research Institute  
  - NCHC,National Center for High-Performance Computing Taiwan  
  - SCC,Student Cluster Challenge  
- - ITRI,Industrial Technology Research Institute  
- - ICL,Information and Communications Research Laboratories  
+ - THU,Tunghai University
