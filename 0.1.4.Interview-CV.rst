@@ -74,9 +74,11 @@ Familiar with android system design, scheduling and admission control. Having ex
  - Certificate of Honor,THU, 2013
  - Certificate of Academic Honors Tunghai University,THU, 2010-2012  
  - Certificate of Tunghai University Presidential Award, 2009-2012
-
-  
-![Automate the Boring Stuff with Python Programming](pics/Udemy-Python.PNG)  https://www.udemy.com/course/automate/  
+ 
+- Udemy
+ - https://www.udemy.com/course/automate/
+ 
+ .. image:: pics/Udemy-Python.PNG   
  
 
 - Software Projects
