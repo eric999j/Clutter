@@ -52,7 +52,7 @@ Familiar with android system design, scheduling and admission control. Having ex
    - TellHTC: An app for HTC error report and BI data collect mechanism, responsible for code development and maintenance.  
    - SmithLite: An app for SSD team internal use, responsible for code development, interface design and usage flow design. 
    - UIBC: An app for mobile phone and vehicle device interactive projection, responsible for code maintenance.  
-   - Play Auto Install, PAI: Install apps from Google play store automatically by different SKU, responsible for code mantenance.  
+   - Play Auto Install, PAI: Install apps from Google play store automatically by different SKU, responsible for code maintenance.  
  - Backend Engineer,Intern              ICL-ITRI               Apr.2013-Feb.2016 3years      
   - Proposed a scheduling algorithm based on real-time system EDF algorithms and improved advertising time usage. 
   - Designed scheduling system for taxi advertising, and cooperate with the Taiwan Taxi.
