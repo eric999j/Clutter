@@ -4,7 +4,7 @@ Bo-Heng Lu 盧柏亨
 `PDF <https://github.com/eric999j/Clutter/blob/master/files/0.1.4.Interview-CV.pdf>`_  
 
 - https://github.com/eric999j  
-- [Address]  
+- Address:   
 - +886  
 - eric999j@gmail.com 
 
