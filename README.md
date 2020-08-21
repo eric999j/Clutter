@@ -1,6 +1,8 @@
 # Clutter 
 這是一個放雜物的地方，無論你喜不喜歡我的文件，都很歡迎你來  
-This is a place to put my clutters, no matter you like it or not, welcome here.
+This is a place to put my clutters, no matter you like it or not, welcome here.  
+ここは、あなたが好きかどうかに関わらず、ここを歓迎します。  
+
 # 文件分類
 
 `Interview`  
