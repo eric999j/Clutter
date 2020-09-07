@@ -19,8 +19,8 @@ This is a place to put my clutters, no matter you like it or not, welcome here.
 
 `Leader`  
 2.1領導Leadership  
-2.2執行目標Execution  
-2.3文書的Instrument  
+2.2文書的Instrument  
+2.3執行目標Execution  
 2.4說話的Speak  
 2.5.網路行銷Internet Promotion  
 
