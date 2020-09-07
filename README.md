@@ -14,7 +14,7 @@ This is a place to put my clutters, no matter you like it or not, welcome here.
 1.1.AI-Artificial Intelligence  
 1.2.運帷DevOps    
 1.3.好用的系列Awesome Things   
-1.4.樹莓派應用Raspberry pi Applications  
+1.4.樹莓派應用Raspberry PI Applications  
 1.5.開發Development  
 
 `Leader`  
@@ -26,12 +26,12 @@ This is a place to put my clutters, no matter you like it or not, welcome here.
 
 `Manager`  
 3.1.主管Management  
-3.2.規劃目標Plan goals 
+3.2.規劃目標Plan Goals 
 
 `Retirement`  
 4.1.回憶的Past  
 4.2.未來的Future  
-4.3.陪孩子 Accompanying your children  
+4.3.陪孩子 Accompanying Your Children  
 
 `Life`  
 5.1.飲食的Diet  
