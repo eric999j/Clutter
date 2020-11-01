@@ -74,6 +74,8 @@ Familiar with android system design, scheduling and admission control. Having ex
  
 - Certifications 
  - Open Water Diver, 2017  
+  .. image:: pics/diving.jpg
+ 
  - Certificate of Honor,THU, 2013
  - Certificate of Academic Honors Tunghai University,THU, 2010-2012  
  - Certificate of Tunghai University Presidential Award, 2009-2012
