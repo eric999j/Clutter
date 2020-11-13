@@ -29,7 +29,6 @@ Familiar with android system design, scheduling and admission control. Having ex
 
 - Software Projects
  - `Java Design Pattern <https://github.com/eric999j/DesignPattern>`_
- - `Python Practices <https://github.com/eric999j/Udemy_Python_Hand_On>`_
  - `Python Conway's Game of Life <https://github.com/eric999j/Conway-s-Game-of-Life>`_  
  - `Python Gif Resampling <https://github.com/eric999j/PILTest/blob/master/Panda_Gif2.ipynb>`_ 
  - `NodeJS Telegram Bot <https://github.com/eric999j/TelegramPandaBot>`_ 
