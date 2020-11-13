@@ -16,7 +16,7 @@ Bo-Heng Lu 盧柏亨
    - TellHTC: An app for HTC error report and BI data collect mechanism, responsible for code development and maintenance.  
  - Backend Engineer,Intern              ICL-ITRI               Apr.2013-Feb.2016 3years      
   - Designed taxi advertising scheduling system.
-  - Developed Location-Based and Interest-Based Recommendation System, and sold to National Quemoy University.
+  - Developed Location-Based and Interest-Based recommendation system, and sold to National Quemoy University.
   - Proposed a scheduling algorithm based on real-time system EDF algorithms and improved advertising time usage. 
   - Built server library “Trust Circle” for “BuddySquare” platform which adopts user’s historical data to make recommendations. 
 
