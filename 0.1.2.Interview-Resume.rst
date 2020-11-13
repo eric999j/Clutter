@@ -5,15 +5,15 @@ Bo-Heng Lu 盧柏亨
 - https://github.com/eric999j  
 - eric999j@gmail.com  
 - Experiences
- - Senior Software Engineer               HTC                 Mar.2016-Present    
+ - Senior Software Engineer               HTC                 Mar.2016-Present   
+  - DevOps 2020
+   - Manage AWS, GCP servers and responsible for department accounting.
   - Android Apps 2016-2019  
    - Zion: A cryptocurrency wallet app, responsible for webview add new features, code maintenance.   
    - UIBC: An app for mobile phone and vehicle device interactive projection, responsible for code maintenance.  
    - Play Auto Install, PAI: Install apps from Google play store automatically by different SKU, responsible for code maintenance.  
    - SmithLite: An app for SSD team internal use, responsible for code development, interface design and usage flow design. 
    - TellHTC: An app for HTC error report and BI data collect mechanism, responsible for code development and maintenance.  
-  - DevOps 2020
-   - Manage AWS, GCP servers and responsible for department accounting.
  - Backend Engineer,Intern              ICL-ITRI               Apr.2013-Feb.2016 3years      
   - Designed Location-Based and Interest-Based Recommendation System.
    - Developed taxi advertising scheduling system, and sold to National Quemoy University.
