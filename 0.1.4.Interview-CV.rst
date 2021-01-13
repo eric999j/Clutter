@@ -49,7 +49,7 @@ Familiar with android system design, scheduling and admission control. Having ex
 - Experiences
  - Senior Software Engineer               HTC                 Mar.2016-Present   
   - DevOps 2020
-   - Manage AWS, GCP servers, fix bugs in department accounting process.
+   - Identified and solved problems in team accounting workflow, and manage AWS, GCP servers.
   - Android Apps 2016-2019  
    - Zion: A cryptocurrency wallet app, responsible for webview add new features, code maintenance.   
    - UIBC: An app for mobile phone and vehicle device interactive projection, responsible for code maintenance.  
