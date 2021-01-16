@@ -28,7 +28,7 @@ Familiar with android system design, scheduling and admission control. Having ex
  - Systems: Android, CentOS, OSX, iOS, Ubuntu, Windows   
 
 - Software Projects
- - `NodeJS Telegram Bot,Automation, Hexo Blog <https://eric999j.github.io/engineer/automation/>`_ 
+ - `NodeJS Telegram Bot, Automation, Hexo Blog <https://eric999j.github.io/engineer/automation/>`_ 
  - `Python Gif Resampling <https://github.com/eric999j/PILTest/blob/master/Panda_Gif2.ipynb>`_  
  - `Python Conway's Game of Life <https://github.com/eric999j/Conway-s-Game-of-Life>`_  
  - `Java Design Pattern <https://github.com/eric999j/DesignPattern>`_
