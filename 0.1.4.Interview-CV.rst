@@ -40,7 +40,7 @@ Bo-Heng Lu 盧柏亨
  - Program Highlights: Object-Oriented Programming(Java), Algorithms and Data Structure, Database System  
  
 - Technical Skills   
-Familiar with android system design, scheduling, and admission control. Having experience to design recommendation systems.  
+Familiar with android system design, scheduling, and admission control. Having the experience to design recommendation systems.  
  - Knowledge: Design Pattern, Machine Learning, Deep Learning 
  - Programming Languages: Java, Python    
  - Tools: Anaconda, Git, Spyder, Tomcat    
@@ -70,7 +70,7 @@ Familiar with android system design, scheduling, and admission control. Having e
  - 2nd High-Performance Virtual Cluster Design Competition, NCHU, 2012
  
 - Publications
- - `ITRI Journal of Information and Communication Technology , 2016 <https://ictjournal.itri.org.tw/content/Messagess/contents.aspx?&MmmID=654304432061644411&CatID=654313611255143006&MSID=707031015232142422>`_  
+ - `ITRI Journal of Information and Communication Technology, 2016 <https://ictjournal.itri.org.tw/content/Messagess/contents.aspx?&MmmID=654304432061644411&CatID=654313611255143006&MSID=707031015232142422>`_  
  
 - Certifications 
  - Open Water Diver, 2017  
