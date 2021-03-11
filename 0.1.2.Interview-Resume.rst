@@ -11,18 +11,18 @@ Bo-Heng Lu 盧柏亨
   - Android Apps 2016-2019  
    - Zion: A cryptocurrency wallet app, responsible for webview add new features, code maintenance.   
    - UIBC: An app for mobile phone and vehicle device interactive projection, responsible for code maintenance.  
-   - Play Auto Install, PAI: Install apps from Google play store automatically by different SKU, responsible for code maintenance.  
+   - Play AutoInstall, PAI: Install apps from Google play store automatically by different SKU, responsible for code maintenance.  
    - SmithLite: An app for SSD team internal use, responsible for code development, interface design and usage flow design. 
    - TellHTC: An app for HTC error report and BI data collect mechanism, responsible for code development and maintenance.  
- - Backend Engineer,Intern              ICL-ITRI               Apr.2013-Feb.2016 3years      
-  - Designed taxi advertising scheduling system.
+ - Backend Engineer, Intern              ICL-ITRI               Apr.2013-Feb.2016 3years      
+  - Designed a taxi advertising scheduling system.
   - Developed Location-Based and Interest-Based recommendation system, and sold to National Quemoy University.
   - Proposed a scheduling algorithm based on real-time system EDF algorithms and improved advertising time usage. 
-  - Built server library “Trust Circle” for “BuddySquare” platform which adopts user’s historical data to make recommendations. 
+  - Built server library “Trust Circle” for the “BuddySquare” platform which adopts user’s historical data to make recommendations. 
 
 - Technical Skills   
-Familiar with android system design, scheduling and admission control. Having experiences to design recommendation system.  
- - Knowledges: Design Pattern, Machine Learning, Deep Learning 
+Familiar with android system design, scheduling, and admission control. Having experience to design recommendation systems.  
+ - Knowledge: Design Pattern, Machine Learning, Deep Learning 
  - Programming Languages: Java, Python    
  - Tools: Anaconda, Git, Spyder, Tomcat    
  - Systems: Android, CentOS, OSX, iOS, Ubuntu, Windows   
@@ -37,20 +37,20 @@ Familiar with android system design, scheduling and admission control. Having ex
 - Leadership and Awards 
  - `IT Home Competition AI&Data, 2019 <https://ithelp.ithome.com.tw/users/20114906/ironman/2153>`_
  - The Member of the Phi Tau Phi Scholastic Honor Society of the R.O.C., 2013
- - Graduation Thematic Competition,THU, 2013
- - Certificate of Honor,THU, 2013
+ - Graduation Thematic Competition, THU, 2013
+ - Certificate of Honor, THU, 2013
  - `2nd NCHC SCC, 2012 <https://event.nchc.org.tw/2012/tscc/print_content.php?CONTENT_ID=25>`_ 
- - 2nd High-Performance Virtual Cluster Design Competition ,NCHU, 2012
- - Certificate of Academic Honors Tunghai University,THU, 2010-2012  
+ - 2nd High-Performance Virtual Cluster Design Competition , NCHU, 2012
+ - Certificate of Academic Honors Tunghai University, THU, 2010-2012  
  - Certificate of Tunghai University Presidential Award, 2009-2012
   
 - Publications
- - `ITRI Journal of Information and Communication Technology , 2016 <https://ictjournal.itri.org.tw/content/Messagess/contents.aspx?&MmmID=654304432061644411&CatID=654313611255143006&MSID=707031015232142422>`_  
+ - `ITRI Journal of Information and Communication Technology, 2016 <https://ictjournal.itri.org.tw/content/Messagess/contents.aspx?&MmmID=654304432061644411&CatID=654313611255143006&MSID=707031015232142422>`_  
 
 - Educations 
 
 +------------------------+-------------------------------------------+-------------------+
-|  M.S.                  | National Chiao Tung University,NCTU       | Feb.2013- Feb.2016|
+|  M.S.                  | National Chiao Tung University, NCTU      | Feb.2013- Feb.2016|
 |                        |            Hsinchu                        |      3 years      |
 +========================+===========================================+===================+
 |  Major                 |                        Network Engineering                    |
@@ -66,7 +66,7 @@ Familiar with android system design, scheduling and admission control. Having ex
  - Program Highlights: Scheduling and Admission Control, Recommendation System, System Analysis and Design  
 
 +------------------------+-------------------------------------------+--------------------+
-|  B.S.                  |       Tunghai University,THU              | Sep.2009- Jan.2013 |
+|  B.S.                  |       Tunghai University, THU             | Sep.2009- Jan.2013 |
 |                        |         Taichung                          |      4 years       |
 +========================+===========================================+====================+
 | Major                  |                          Computer Science                      |
