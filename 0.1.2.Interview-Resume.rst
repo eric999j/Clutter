@@ -12,7 +12,7 @@ Bo-Heng Lu 盧柏亨
    - Zion: A cryptocurrency wallet app, responsible for webview add new features, code maintenance.   
    - UIBC: An app for mobile phone and vehicle device interactive projection, responsible for code maintenance.  
    - Play AutoInstall, PAI: Install apps from Google play store automatically by different SKU, responsible for code maintenance.  
-   - SmithLite: An app for SSD team internal use, responsible for code development, interface design and usage flow design. 
+   - SmithLite: An app for SSD team internal use, responsible for code development, interface and usage flow design. 
    - TellHTC: An app for HTC error report and BI data collect mechanism, responsible for code development and maintenance.  
  - Backend Engineer, Intern              ICL-ITRI               Apr.2013-Feb.2016 3years      
   - Designed a taxi advertising scheduling system.
@@ -21,7 +21,7 @@ Bo-Heng Lu 盧柏亨
   - Built server library “Trust Circle” for the “BuddySquare” platform which adopts user’s historical data to make recommendations. 
 
 - Technical Skills   
-Familiar with android system design, scheduling, and admission control. Having experience to design recommendation systems.  
+Familiar with android system design, scheduling, and admission control. Having the experience to design recommendation systems.  
  - Knowledge: Design Pattern, Machine Learning, Deep Learning 
  - Programming Languages: Java, Python    
  - Tools: Anaconda, Git, Spyder, Tomcat    
@@ -40,7 +40,7 @@ Familiar with android system design, scheduling, and admission control. Having e
  - Graduation Thematic Competition, THU, 2013
  - Certificate of Honor, THU, 2013
  - `2nd NCHC SCC, 2012 <https://event.nchc.org.tw/2012/tscc/print_content.php?CONTENT_ID=25>`_ 
- - 2nd High-Performance Virtual Cluster Design Competition , NCHU, 2012
+ - 2nd High-Performance Virtual Cluster Design Competition, NCHU, 2012
  - Certificate of Academic Honors Tunghai University, THU, 2010-2012  
  - Certificate of Tunghai University Presidential Award, 2009-2012
   
