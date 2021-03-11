@@ -8,7 +8,7 @@ Bo-Heng Lu 盧柏亨
 - +886  
 - eric999j@gmail.com 
 
- - Hi, I'm Eric. I worked at HTC and ITRI as a software engineer for 3 years separately. We use Java to develope several apps in HTC, I also developed several libraries in ITRI. I enjoy cooperating with people, and diligence in my job. I also love learning new knowledge and skills to adapt to the trend of technology.
+ - Hi, I'm Eric. I worked at HTC and ITRI as a software engineer for 3 years separately. We use Java developed several apps in HTC, I also developed several libraries in ITRI. I enjoy cooperating with people, and diligence in my job. I also love learning new knowledge and skills to adapt to the trend of technology.
 
 - Educations 
 
@@ -58,7 +58,7 @@ Familiar with android system design, scheduling, and admission control. Having t
    - TellHTC: An app for HTC error report and BI data collect mechanism, responsible for code development and maintenance.  
  - Backend Engineer, Intern              ICL-ITRI               Apr.2013-Feb.2016 3years      
   - Designed a taxi advertising scheduling system.
-  - Developed a Location-Based and Interest-Based recommendation system, and sold it to National Quemoy University.
+  - Developed a Location-Based and Interest-Based recommendation system and sold it to National Quemoy University.
   - Proposed a scheduling algorithm based on real-time system EDF algorithms and improved advertising time usage. 
   - Built server library “Trust Circle” for the “BuddySquare” platform which adopts user’s historical data to make recommendations. 
   
